@@ -1,0 +1,16 @@
+body {
+  background-color: lightseagreen;
+}
+.nav {
+  background-color: black;
+  padding-top: 0%;
+  width: auto;
+  height: 70px;
+}
+a {
+  color: white;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
